@@ -1,6 +1,6 @@
 
 variable "name" {
-  default = myvpc
+  default = "myvpc"
 }
 
 variable "cidr" {
